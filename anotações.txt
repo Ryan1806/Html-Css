@@ -1,0 +1,31 @@
+h1- Titulo Principal
+h2- Sub-Título
+
+tag para colocar em negrito-<strong>
+tag para colocar em itálico-<em>
+
+atalho -> CNTRL+SHIFT+P
+
+tag para marcar texto = <mark>
+_________________
+tags de citações |
+                 |
+<blockqueote>    |
+<code>		 |
+<pre>		 |
+_________________|
+
+Listas Ordenadas
+
+tag <ol>
+tag <ul>
+
+lista de definicoes 
+tag <dt>
+tag <dd>f
+
+linls e ancoras
+target= "_blank" rel="external">
+tag <a>
+../ = pagina anterior
+
